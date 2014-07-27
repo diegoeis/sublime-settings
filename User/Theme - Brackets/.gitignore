@@ -1,0 +1,10 @@
+*.DS_Store
+
+Soda Dark/
+Soda Dark.sublime-theme
+Soda Dark 3.sublime-theme
+Soda Light/
+Soda Light.sublime-theme
+Soda Light 3.sublime-theme
+
+*@2x.png
